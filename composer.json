@@ -1,0 +1,10 @@
+{
+	"name": "plan2net/fal-copy-storage",
+	"description": "Backport of 7.1 feature to copy/move files between storages",
+	"require": {
+		"typo3/cms-core": ">=6.2.0",
+        "typo3/cms-felogin": ">=6.2.0"
+	},
+	"type": "typo3-cms-extension",
+	"version": "0.1.0"
+}
